@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository create a .git directory with no commit. we initialize 
+a repository in order to commit the work or any changes we have made in the source code.
+this will allow us to have a good track of all the changes we have made in the files.
